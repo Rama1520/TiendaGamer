@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TiendaGamer", "TiendaGamer", "{5A1FD5BE-417D-4A3D-A4F7-E271CD2C9164}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaDeClases", "BibliotecaDeClases\BibliotecaDeClases.csproj", "{27AC21E4-9452-4B31-97FF-E83F018F99AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrmParcial", "FrmParcial\FrmParcial.csproj", "{E4B8D2BB-E171-4F9D-AE10-BE42EF5F89A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27AC21E4-9452-4B31-97FF-E83F018F99AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AC21E4-9452-4B31-97FF-E83F018F99AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AC21E4-9452-4B31-97FF-E83F018F99AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AC21E4-9452-4B31-97FF-E83F018F99AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B8D2BB-E171-4F9D-AE10-BE42EF5F89A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B8D2BB-E171-4F9D-AE10-BE42EF5F89A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B8D2BB-E171-4F9D-AE10-BE42EF5F89A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B8D2BB-E171-4F9D-AE10-BE42EF5F89A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27AC21E4-9452-4B31-97FF-E83F018F99AA} = {5A1FD5BE-417D-4A3D-A4F7-E271CD2C9164}
+		{E4B8D2BB-E171-4F9D-AE10-BE42EF5F89A9} = {5A1FD5BE-417D-4A3D-A4F7-E271CD2C9164}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF38FDE7-89EA-468E-8252-4194EB36D7BF}
+	EndGlobalSection
+EndGlobal
